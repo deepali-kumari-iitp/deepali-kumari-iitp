@@ -1,42 +1,50 @@
-
-<!-- ================================================= -->
-<!-- DEEPALI KUMARI | PREMIUM GITHUB DEVELOPER PROFILE -->
+ <!-- ================================================= -->
+<!-- DEEPALI KUMARI | GITHUB DEVELOPER PORTFOLIO -->
 <!-- ================================================= -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:123C35,100:58F0B0&height=220&section=header&text=Deepali%20Kumari&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Full%20Stack%20%7C%20Open%20Source&descAlignY=60&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:123C35,100:58F0B0&height=230&section=header&text=Deepali%20Kumari&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=SOFTWARE%20ENGINEERING%20%7C%20FULL%20STACK%20%7C%20OPEN%20SOURCE&descAlignY=60&descSize=14&animation=fadeIn" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=900&color=58F0B0&center=true&vCenter=true&width=750&lines=Computer+Science+Student+%40+IIT+Patna;Full+Stack+Developer+%F0%9F%92%BB;Open+Source+Contributor+%F0%9F%8C%8D;Building+Technology+That+Matters+%F0%9F%9A%80;Always+Learning.+Always+Building." alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=58F0B0&center=true&vCenter=true&width=800&lines=Computer+Science+Student+%40+IIT+Patna;Building+Full+Stack+Applications;Exploring+Backend+Engineering;Contributing+to+Open+Source;Turning+Ideas+Into+Working+Software" alt="Developer introduction" />
 
 <br/>
 
 <a href="https://github.com/deepali-kumari-iitp">
-<img src="https://img.shields.io/badge/GitHub-Profile-58F0B0?style=for-the-badge&logo=github&logoColor=black" />
+<img src="https://img.shields.io/badge/GitHub-Profile-161B22?style=for-the-badge&logo=github&logoColor=58F0B0" />
 </a>
 <a href="mailto:deepalixyz01@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-9B8CFF?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-Contact-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335" />
 </a>
 <a href="https://github.com/deepali-kumari-iitp?tab=repositories">
-<img src="https://img.shields.io/badge/Repositories-Explore-21262D?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Projects-Explore-161B22?style=for-the-badge&logo=github&logoColor=9B8CFF" />
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=deepali-kumari-iitp&label=PROFILE%20VIEWS&color=58F0B0&style=flat" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=deepali-kumari-iitp&label=PROFILE+VISITORS&color=58F0B0&style=flat-square" alt="Profile visitors" />
 
 </div>
 
 ---
 
-👩‍💻 About Me
-Hi! I'm Deepali Kumari, a Computer Science student at IIT Patna, passionate about Software Engineering and Full Stack Development.
-- 🎓 B.Sc. Computer Science & Data Analytics — IIT Patna
-- 💻 Full Stack Developer
-- 🌍 Open Source Contributor
-- 🏆 OpenCode'25 — Rank 40
-- 🚀 Building impactful software projects
-- 🎯 Aspiring Software Engineer
+## 👩🏻‍💻 About Me
+
+I'm **Deepali Kumari**, a Computer Science and Data Analytics undergraduate at **IIT Patna**, interested in building practical software solutions and understanding how scalable applications work.
+
+My primary interest lies in Software Engineering, Full Stack Development, Backend Engineering and Open Source.
+
+I enjoy taking ideas from concept to implementation, experimenting with technologies and collaborating with developers to build useful products.
+
+- 🎓 Pursuing B.Sc. in Computer Science & Data Analytics at IIT Patna.
+- 💻 Interested in Software Engineering and Full Stack Development.
+- ⚙️ Exploring backend systems, APIs and software architecture.
+- 🌍 Actively participating in open-source communities.
+- 🏆 OpenCode'25 — Rank 40 Overall.
+- 🎯 Working towards becoming a Software Engineer.
+
+---
+
 ## 🛠️ Technical Skills
 
 ### Programming Languages
@@ -60,28 +68,31 @@ Hi! I'm Deepali Kumari, a Computer Science student at IIT Patna, passionate abou
 ### Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
 </p>
 
-### AI / ML
+### AI / Machine Learning
 
 - TensorFlow Lite
 - NumPy
-- Basic Audio Processing
+- Python-based audio processing
+- Mel-Spectrograms
 
-### Developer Tools
+### Tools & Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,androidstudio" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,androidstudio,linux" />
 </p>
 
-### Core Computer Science
+### Computer Science Fundamentals
 
 - Data Structures & Algorithms
 - Object-Oriented Programming
 - Database Management Systems
+- SQL and Relational Databases
 - REST API Development
-- JWT Authentication
+- Authentication & Authorization
+- Software Design Fundamentals
 
 ---
 
@@ -91,12 +102,12 @@ Hi! I'm Deepali Kumari, a Computer Science student at IIT Patna, passionate abou
 
 <sub>July 2026 – Present</sub>
 
-`React` `Node.js` `Express.js` `Project Management`
+`Project Management` `Full Stack Development` `Team Collaboration`
 
-- Collaborated with business and engineering teams on full-stack product development.
-- Coordinated 15+ cross-functional meetings.
-- Managed 10+ B2B marketplace accounts.
-- Supported technical documentation and product delivery.
+- Collaborating with business and engineering teams on full-stack product development.
+- Coordinating 15+ cross-functional meetings.
+- Managing 10+ B2B marketplace accounts.
+- Supporting technical documentation and product delivery.
 
 ### Front-End Developer Intern — She Safe
 
@@ -104,18 +115,18 @@ Hi! I'm Deepali Kumari, a Computer Science student at IIT Patna, passionate abou
 
 `HTML` `CSS` `JavaScript` `React.js`
 
-- Built responsive user interfaces and reusable frontend components.
+- Developed responsive user interfaces and reusable frontend components.
 - Translated UI designs into functional web pages.
-- Improved usability through bug fixes and responsive layouts.
+- Worked on usability improvements, bug fixes and responsive layouts.
 
-### Web Developer — Dynamisers Solutions
+### Web Developer — Dynamisers Solutions Pvt. Ltd.
 
 <sub>January 2026 – April 2026</sub>
 
 `HTML` `CSS` `JavaScript` `WordPress`
 
-- Maintained WordPress websites.
-- Performed content updates and HTML/CSS modifications.
+- Maintained and updated WordPress websites.
+- Implemented content changes and frontend modifications.
 - Resolved UI-related issues and performed responsive testing.
 
 ---
@@ -124,33 +135,44 @@ Hi! I'm Deepali Kumari, a Computer Science student at IIT Patna, passionate abou
 
 ### 01. KSP IntelliCrime — AI Crime Intelligence Platform
 
-`React` `TypeScript` `Node.js` `Express.js` `Zoho Catalyst` `JWT`
+<sub>AI • Full Stack • Crime Intelligence</sub>
 
-- Developed an AI-powered crime intelligence platform.
-- Implemented FIR management and GIS-based crime mapping.
-- Built analytics features and REST APIs.
-- Integrated AI-powered FIR summarization using Zoho Catalyst.
+`React 19` `TypeScript` `Node.js` `Express.js` `PostgreSQL` `Python` `Zoho Catalyst`
 
-### 02. AEGIS — P2P Mesh Communication Platform
+- Building an AI-powered crime intelligence platform.
+- Working on FIR management and GIS-based crime mapping.
+- Developing analytics features and REST APIs.
+- Integrating AI-powered FIR summarization.
+- Exploring graph-based crime intelligence and data analysis.
+
+### 02. AEGIS — Offline-First P2P Mesh Communication
+
+<sub>Decentralized Communication • Networking</sub>
 
 `Flutter` `Dart` `WebRTC` `Flask`
 
-- Built an offline-first peer-to-peer communication platform.
-- Developed networking modules including Mesh Router, Peer Manager and WebRTC Manager.
-- Focused on decentralized communication and connectivity.
+- Developing an offline-first peer-to-peer communication platform.
+- Working on Mesh Router, Peer Manager and WebRTC Manager.
+- Exploring decentralized communication and connectivity.
+- Focusing on communication without relying entirely on traditional infrastructure.
 
 ### 03. AuraShield AI — Deepfake Voice Detection
+
+<sub>Artificial Intelligence • Android Development</sub>
 
 `Kotlin` `Jetpack Compose` `TensorFlow Lite` `Python`
 
 - Developed an AI-powered Android application for deepfake voice detection.
 - Implemented audio preprocessing using Mel-Spectrograms.
 - Worked on real-time scam voice detection.
+- Explored machine learning integration in Android applications.
 
 <div align="center">
 
+<br/>
+
 <a href="https://github.com/deepali-kumari-iitp?tab=repositories">
-<img src="https://img.shields.io/badge/Explore%20All%20Repositories-58F0B0?style=for-the-badge&logo=github&logoColor=black" />
+<img src="https://img.shields.io/badge/EXPLORE%20ALL%20PROJECTS-58F0B0?style=for-the-badge&logo=github&logoColor=0D1117" />
 </a>
 
 </div>
@@ -161,74 +183,50 @@ Hi! I'm Deepali Kumari, a Computer Science student at IIT Patna, passionate abou
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/OpenCode'25-Rank%2040-58F0B0?style=for-the-badge&logo=github&logoColor=black" />
-<img src="https://img.shields.io/badge/27%2B-Merged%20PRs-9B8CFF?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/OPENCODE'25-RANK%2040-58F0B0?style=for-the-badge&logo=github&logoColor=0D1117" />
+
+<img src="https://img.shields.io/badge/27%2B-MERGED%20PULL%20REQUESTS-9B8CFF?style=for-the-badge&logo=git&logoColor=white" />
 
 </div>
 
-- 🥇 Achieved Rank 40 Overall in OpenCode'25.
-- 🚀 Contributed 27+ merged pull requests in OpenCode'25.
+- 🥇 Achieved **Rank 40 Overall** in OpenCode'25.
+- 🚀 Contributed **27+ merged pull requests** in OpenCode'25.
 - 🌱 Contributor at Social Summer of Code (SSoC 2026).
 - 💻 Achieved 4 merged pull requests in SSoC 2026.
 - ✨ Selected Contributor at Winter of Code — World of Coders Society.
 
 ---
 
-
-<!-- GITHUB ANALYTICS -->
-
-<h2 align="center">📊 GitHub Analytics</h2>
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/deepali-kumari-iitp/deepali-kumari-iitp/profile-redesign/assets/cards.dark.svg"
-  />
+<a href="https://github.com/deepali-kumari-iitp">
 
-  <img
-    src="https://raw.githubusercontent.com/deepali-kumari-iitp/deepali-kumari-iitp/profile-redesign/assets/cards.light.svg"
-    alt="Deepali Kumar - GitHub Analytics"
-    width="100%"
-  />
-</picture>
+<img src="https://raw.githubusercontent.com/deepali-kumari-iitp/deepali-kumari-iitp/profile-redesign/assets/cards.dark.svg" width="100%" alt="Deepali Kumari GitHub Analytics" />
 
-</div>
+</a>
 
----
-
-<h2 align="center">✨ Open Source Journey</h2>
-
-<div align="center">
+<br/><br/>
 
 <a href="https://github.com/deepali-kumari-iitp?tab=repositories">
-  <img
-    src="https://img.shields.io/badge/Explore-My%20Repositories-58F0B0?style=for-the-badge&logo=github&logoColor=black"
-    alt="Explore repositories"
-  />
-</a>
-
-<a href="https://github.com/deepali-kumari-iitp?tab=contributions">
-  <img
-    src="https://img.shields.io/badge/View-Contributions-9B8CFF?style=for-the-badge&logo=github&logoColor=white"
-    alt="View contributions"
-  />
+<img src="https://img.shields.io/badge/VIEW%20MY%20REPOSITORIES-161B22?style=for-the-badge&logo=github&logoColor=58F0B0" />
 </a>
 
 </div>
 
 ---
 
+## ✨ Beyond Coding
+
+I believe becoming a good engineer is not just about writing code. It's also about learning continuously, collaborating with people and understanding real-world problems.
+
+- 🌱 Exploring new technologies and software architecture.
+- 🤝 Collaborating on open-source projects.
+- 🧠 Practising problem-solving and Data Structures & Algorithms.
+- 🚀 Building projects that solve practical problems.
+
 ---
-
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=deepali-kumari-iitp&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=4" width="100%" />
-
-</div>
 
 ---
 
@@ -236,21 +234,34 @@ Hi! I'm Deepali Kumari, a Computer Science student at IIT Patna, passionate abou
 
 <div align="center">
 
-I'm always interested in connecting with developers, collaborating on projects and contributing to open source.
+### Let's build something meaningful together! ✨
+
+Always excited to connect with developers, collaborate on innovative projects, contribute to open source, and explore new opportunities.
+
+<br/>
 
 <a href="https://github.com/deepali-kumari-iitp">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/deepali-kumari-545a23314/">
+  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:deepalixyz01@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-Drop%20a%20Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 <br/><br/>
 
+---
+
 ### 💚 Thanks for visiting my profile!
 
-**Keep building. Keep learning. Keep growing.**
+*Building ideas into reality, one line of code at a time.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58F0B0,50:123C35,100:0D1117&height=120&section=footer" width="100%" />
+**Keep Building. Keep Learning. Keep Growing.** 🚀
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58F0B0,50:123C35,100:0D1117&height=130&section=footer" width="100%" alt="Footer"/>
 
 </div>
