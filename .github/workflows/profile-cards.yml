@@ -3,9 +3,11 @@ name: Update Profile Cards
 
 on:
   workflow_dispatch:
+
   push:
     branches:
       - profile-redesign
+
   schedule:
     - cron: "17 0 * * *"
 
