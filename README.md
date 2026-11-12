@@ -1,94 +1,114 @@
 
-<!-- ========================================= -->
-<!-- DEEPALI KUMARI | DEVELOPER PROFILE         -->
-<!-- ========================================= -->
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=900&color=58F0B0&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Deepali+Kumari+%F0%9F%91%8B;Software+Developer+in+Progress+%F0%9F%9A%80;Full+Stack+Developer+%7C+Open+Source+Contributor;Building+Things+That+Matter+%E2%9C%A8" alt="Typing SVG" />
-
-<br/>
-
-<a href="https://github.com/deepali-kumari-iitp">
-<img src="https://img.shields.io/badge/GitHub-Profile-58F0B0?style=for-the-badge&logo=github&logoColor=black" />
-</a>
-
-<a href="https://github.com/deepali-kumari-iitp?tab=repositories">
-<img src="https://img.shields.io/badge/Explore-Projects-9B8CFF?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<br/><br/>
-
-**Computer Science Student @ IIT Patna**
-
-*Software Development • Full Stack • Open Source*
-
-</div>
-
----
-
 ## 👩‍💻 About Me
+
+I'm Deepali Kumari, a Computer Science & Data Analytics undergraduate at IIT Patna, passionate about building scalable applications and solving real-world problems through technology.
 
 ```javascript
 const deepali = {
-    name: "Deepali Kumari",
-    education: "B.Sc. Computer Science & Data Analytics",
-    university: "IIT Patna",
-    role: "Software Developer",
-    interests: [
-        "Full Stack Development",
-        "Software Engineering",
-        "Open Source",
-        "Problem Solving"
-    ],
-    currentlyLearning: [
-        "Advanced JavaScript",
-        "Backend Development",
-        "Data Structures & Algorithms",
-        "System Design"
-    ],
-    funFact: "I love turning ideas into real-world projects!"
+  name: "Deepali Kumari",
+  education: "B.Sc. CS & Data Analytics @ IIT Patna",
+  cpi: "9.0/10",
+  role: "Software Engineer",
+  interests: [
+    "Full Stack Development",
+    "Software Engineering",
+    "Open Source",
+    "Problem Solving"
+  ],
+  currentlyExploring: [
+    "Backend Engineering",
+    "System Design",
+    "AI-powered Applications"
+  ],
+  openTo: ["Internships", "Open Source", "Collaboration"]
 };
 ```
 
-- 🎓 Pursuing B.Sc. in Computer Science & Data Analytics at IIT Patna.
-- 💻 Passionate about building useful software applications.
-- 🌱 Exploring full-stack development and software engineering.
-- 🚀 Contributing to open-source projects.
+- 🎓 Studying at IIT Patna (2024–2027).
+- 💻 Building full-stack applications using React and Node.js.
+- 🌱 Exploring scalable backend systems and software architecture.
+- 🌍 Contributing to open-source communities.
 - 🎯 Working towards becoming a Software Engineer.
+
+---
+
+## 💼 Experience
+
+**Project Manager Intern — KRISLUXECO**  
+`July 2026 – Present`
+
+- Collaborated with business and engineering teams on full-stack product development.
+- Coordinated 15+ cross-functional meetings.
+- Managed 10+ B2B marketplace accounts.
+
+**Front-End Developer Intern — She Safe**  
+`May 2026 – June 2026`
+
+- Built responsive user interfaces and reusable components.
+- Improved usability through bug fixes and responsive layouts.
+
+**Web Developer — Dynamisers Solutions**  
+`January 2026 – April 2026`
+
+- Maintained WordPress websites.
+- Worked on HTML/CSS modifications, bug fixing and responsive testing.
+
+---
+
+## 🚀 Featured Projects
+
+### 1. KSP IntelliCrime
+`React` `TypeScript` `Node.js` `Express.js` `JWT`
+
+- AI-powered crime intelligence platform.
+- Built FIR management, GIS crime mapping and analytics.
+- Integrated REST APIs and AI-powered FIR summarization.
+
+### 2. AEGIS — P2P Mesh Communication
+`Flutter` `Dart` `WebRTC` `Flask`
+
+- Built an offline-first peer-to-peer communication platform.
+- Developed Mesh Router, Peer Manager and WebRTC Manager.
+
+### 3. AuraShield AI — Deepfake Voice Detection
+`Kotlin` `Jetpack Compose` `TensorFlow Lite` `Python`
+
+- Developed an Android application for deepfake voice detection.
+- Implemented audio preprocessing using Mel-Spectrograms.
+
+---
+
+## 🏆 Achievements & Open Source
+
+- 🥇 Rank 40 Overall in OpenCode'25.
+- 🚀 27+ merged Pull Requests in OpenCode'25.
+- 🌱 Contributor at Social Summer of Code (SSoC 2026).
+- 💻 4 merged Pull Requests in SSoC 2026.
+- ✨ Selected Contributor at Winter of Code (World of Coders Society).
 
 ---
 
 ## ⚡ Tech Stack
 
-### Frontend Development
+### Languages
+<img src="https://skillicons.dev/icons?i=cpp,python,js,kotlin" />
 
-<div>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,bootstrap" />
-</div>
+### Frontend
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
 
-### Backend Development
+### Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
 
-<div>
-<img src="https://skillicons.dev/icons?i=nodejs,express,python" />
-</div>
+### Databases
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 
-### Database & Tools
-
-<div>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,git,github,vscode,postman" />
-</div>
-
-### Programming Languages
-
-<div>
-<img src="https://skillicons.dev/icons?i=cpp,python,javascript" />
-</div>
+### Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,androidstudio" />
 
 ---
 
 <div align="center">
 
-### ✨ More than just code — building, learning and growing.
+### 💚 Building. Learning. Contributing. Growing.
 
 </div>
