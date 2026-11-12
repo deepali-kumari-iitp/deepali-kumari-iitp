@@ -1,0 +1,33 @@
+
+name: Update Profile Cards
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - profile-redesign
+  schedule:
+    - cron: "17 0 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate profile cards
+        uses: seijikohara/profile-cards-action@v1
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          username: deepali-kumari-iitp
+          cards: overview,languages,contributions,lifetime
+          layout: combined
+          output-dir: assets
+          themes: light,dark
+          palette: green
+          commit: true
