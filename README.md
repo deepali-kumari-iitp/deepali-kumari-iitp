@@ -174,29 +174,51 @@ Hi! I'm Deepali Kumari, a Computer Science student at IIT Patna, passionate abou
 
 ---
 
-## 📊 GitHub Analytics
+
+<!-- GITHUB ANALYTICS -->
+
+<h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=deepali-kumari-iitp&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58F0B0&icon_color=9B8CFF&text_color=C9D1D9&rank_icon=github" />
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/deepali-kumari-iitp/deepali-kumari-iitp/profile-redesign/assets/cards.dark.svg"
+  />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepali-kumari-iitp&layout=compact&hide_border=true&bg_color=0D1117&title_color=58F0B0&text_color=C9D1D9" />
-
-<br/><br/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=deepali-kumari-iitp&theme=transparent&hide_border=true&ring=58F0B0&fire=9B8CFF&currStreakLabel=58F0B0&sideLabels=C9D1D9&dates=8B949E" />
+  <img
+    src="https://raw.githubusercontent.com/deepali-kumari-iitp/deepali-kumari-iitp/profile-redesign/assets/cards.light.svg"
+    alt="Deepali Kumar - GitHub Analytics"
+    width="100%"
+  />
+</picture>
 
 </div>
 
 ---
 
-## 📈 Contribution Activity
+<h2 align="center">✨ Open Source Journey</h2>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=deepali-kumari-iitp&bg_color=0D1117&color=C9D1D9&line=58F0B0&point=9B8CFF&area=true&hide_border=true" width="100%" />
+<a href="https://github.com/deepali-kumari-iitp?tab=repositories">
+  <img
+    src="https://img.shields.io/badge/Explore-My%20Repositories-58F0B0?style=for-the-badge&logo=github&logoColor=black"
+    alt="Explore repositories"
+  />
+</a>
+
+<a href="https://github.com/deepali-kumari-iitp?tab=contributions">
+  <img
+    src="https://img.shields.io/badge/View-Contributions-9B8CFF?style=for-the-badge&logo=github&logoColor=white"
+    alt="View contributions"
+  />
+</a>
 
 </div>
+
+---
 
 ---
 
